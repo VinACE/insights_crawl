@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title> subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="GENERAL INDUSTRY" title="GENERAL INDUSTRY">
+            <outline type="rss" text="POPSOP.COM. Brand news. Brand design. Package design. Branding agencies. Brand experts" title="POPSOP.COM. Brand news. Brand design. Package design. Branding agencies. Brand experts" xmlUrl="http://feeds.feedburner.com/popsop_com" htmlUrl="http://popsop.com"/>
+            <outline type="rss" text="fabric detergent - Google News" title="fabric detergent - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=fabric%20detergent&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=fabric+detergent"/>
+            <outline type="rss" text="fragrance market - Google News" title="fragrance market - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=fragrance%20market&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=fragrance+market"/>
+            <outline type="rss" text="detergent market - Google News" title="detergent market - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=detergent%20market&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=detergent+market"/>
+            <outline type="rss" text="functional fragrance - Google Ne..." title="functional fragrance - Google Ne..." xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=functional%20fragrance&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=functional+fragrance"/>
+        </outline>
+        <outline text="CUSTOMERS" title="CUSTOMERS">
+            <outline type="rss" text="henkel - Google News" title="henkel - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=henkel&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=henkel"/>
+            <outline type="rss" text="sc johnson - Google News" title="sc johnson - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=sc%20johnson&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=sc+johnson"/>
+            <outline type="rss" text="azelis - Google News" title="azelis - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=azelis&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=azelis"/>
+            <outline type="rss" text="Henkel Headlines" title="Henkel Headlines" xmlUrl="http://www.henkel.com/SID-E8BE4127-A31CEFE6/henkel-headlines.htm?mode=rss" htmlUrl="http://www.henkel.com:80/henkel-headlines.htm"/>
+            <outline type="rss" text="beiersdorf - Google News" title="beiersdorf - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=beiersdorf&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=beiersdorf"/>
+            <outline type="rss" text="unilever-rss.com - Google News" title="unilever-rss.com - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=unilever-rss.com&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=unilever-rss.com"/>
+            <outline type="rss" text="procter and gamble - Google News" title="procter and gamble - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=procter%20and%20gamble&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=procter+and+gamble"/>
+            <outline type="rss" text="colgate palmolive" title="colgate palmolive" xmlUrl="https://www.google.com/alerts/feeds/05287984702837248248/6290384905901284638"/>
+            <outline type="rss" text="reckitt benckiser - Google News" title="reckitt benckiser - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=reckitt%20benckiser&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=reckitt+benckiser"/>
+        </outline>
+        <outline text="TRADE SITES" title="TRADE SITES">
+            <outline type="rss" text="The Grocer - latest headlines" title="The Grocer - latest headlines" xmlUrl="http://www.thegrocer.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=33" htmlUrl="http://www.thegrocer.co.uk"/>
+            <outline type="rss" text="FutureTimeline" title="FutureTimeline" xmlUrl="http://feeds.feedburner.com/futuretimeline" htmlUrl="http://www.open.dapper.net"/>
+            <outline type="rss" text="LZ | NET News" title="LZ | NET News" xmlUrl="http://www.lz-net.de/rss/feeds/feed20.rss"/>
+            <outline type="rss" text="Spotlight on German Retail" title="Spotlight on German Retail" xmlUrl="http://feeds.feedburner.com/SpotlightOnGermanRetail" htmlUrl="http://www.german-retail-blog.com/"/>
+            <outline type="rss" text="COSSMA: Latest News" title="COSSMA: Latest News" xmlUrl="http://www.cossma.com/index.php?id=7066&amp;type=100" htmlUrl="http://www.cossma.com/"/>
+            <outline type="rss" text="Happi Breaking News" title="Happi Breaking News" xmlUrl="http://feeds.feedburner.com/HappiBreakingNews" htmlUrl="http://www.happi.com"/>
+            <outline type="rss" text="CosmeticsDesign-Europe RSS" title="CosmeticsDesign-Europe RSS" xmlUrl="http://www.cosmeticsdesign-europe.com/feed/view/213224" htmlUrl="http://www.cosmeticsdesign-europe.com"/>
+        </outline>
+        <outline text="FUTURE" title="FUTURE">
+            <outline type="rss" text="Digital Trends" title="Digital Trends" xmlUrl="http://www.digitaltrends.com/feed/" htmlUrl="http://www.digitaltrends.com"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="http://www.theverge.com/"/>
+            <outline type="rss" text="Crunchbase" title="Crunchbase" xmlUrl="http://info.crunchbase.com/feed/" htmlUrl="https://about.crunchbase.com"/>
+            <outline type="rss" text="Future Feeder" title="Future Feeder" xmlUrl="http://www.futurefeeder.com/feed/" htmlUrl="http://www.futurefeeder.com"/>
+            <outline type="rss" text="FutureTimeline" title="FutureTimeline" xmlUrl="http://feeds.feedburner.com/futuretimeline" htmlUrl="http://www.open.dapper.net"/>
+            <outline type="rss" text="Startups – TechCrunch" title="Startups – TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/startups" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="Future Timeline Latest Updates | FutureTimeline.net | Future | Timeline | 2050 | 2100 | 2150 | 220.." title="Future Timeline Latest Updates | FutureTimeline.net | Future | Timeline | 2050 | 2100 | 2150 | 220.." xmlUrl="http://feedity.com/futuretimeline-net/VVFXVFdV.rss" htmlUrl="http://www.futuretimeline.net/latest.htm"/>
+            <outline type="rss" text="Sleep News" title="Sleep News" xmlUrl="http://www.sleepfoundation.org/alerts/rss" htmlUrl="https://sleepfoundation.org/sleep-news-list"/>
+            <outline type="rss" text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" htmlUrl="http://www.forbes.com/entrepreneurs/"/>
+            <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed/" htmlUrl="http://venturebeat.com"/>
+            <outline type="rss" text="YourStory.com" title="YourStory.com" xmlUrl="http://yourstory.in/feed/" htmlUrl="https://yourstory.com"/>
+            <outline type="rss" text="The Institute for Art and Olfaction" title="The Institute for Art and Olfaction" xmlUrl="http://artandolfaction.com/feed/" htmlUrl="http://artandolfaction.com"/>
+            <outline type="rss" text="The Kickstarter Blog" title="The Kickstarter Blog" xmlUrl="http://www.kickstarter.com/blog.atom" htmlUrl="https://www.kickstarter.com/blog"/>
+            <outline type="rss" text="Inc.com" title="Inc.com" xmlUrl="http://www.inc.com/rss.xml" htmlUrl="http://www.inc.com/"/>
+            <outline type="rss" text="The Medical Futurist" title="The Medical Futurist" xmlUrl="http://scienceroll.com/feed/" htmlUrl="http://medicalfuturist.com"/>
+        </outline>
+        <outline text="COMPETITORS" title="COMPETITORS">
+            <outline type="rss" text="international flavors and fragra..." title="international flavors and fragra..." xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=international%20flavors%20and%20fragrances&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=international+flavors+and+fragrances"/>
+            <outline type="rss" text="firmenich - Google News" title="firmenich - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=firmenich&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=firmenich"/>
+            <outline type="rss" text="cpl aromas - Google News" title="cpl aromas - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=cpl%20aromas&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=cpl+aromas"/>
+            <outline type="rss" text="symrise - Google News" title="symrise - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=symrise&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=symrise"/>
+            <outline type="rss" text="givaudan - Google News" title="givaudan - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=givaudan&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=givaudan"/>
+            <outline type="rss" text="symrise - always inspiring more..." title="symrise - always inspiring more..." xmlUrl="http://www.symrise.com/en/news-media/rss-feed/rss-feed/rss.xml" htmlUrl="http://www.symrise.com/"/>
+            <outline type="rss" text="CPL Aromas" title="CPL Aromas" xmlUrl="http://www.cplaromas.com/feed/" htmlUrl="http://www.cplaromas.com"/>
+            <outline type="rss" text="www.givaudan.com/rss" title="www.givaudan.com/rss" xmlUrl="https://www.givaudan.com/rss" htmlUrl="https://www.givaudan.com/rss"/>
+            <outline type="rss" text="takasago - Google News" title="takasago - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=takasago&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=takasago"/>
+        </outline>
+        <outline text="NEWS SITES" title="NEWS SITES">
+            <outline type="rss" text="DutchNews.nl" title="DutchNews.nl" xmlUrl="http://www.dutchnews.nl/feed/" htmlUrl="http://www.dutchnews.nl"/>
+            <outline type="rss" text="FT.com - Companies" title="FT.com - Companies" xmlUrl="http://www.ft.com/rss/companies" htmlUrl="http://www.ft.com/companies"/>
+            <outline type="rss" text="FT.com - Global Economy" title="FT.com - Global Economy" xmlUrl="http://www.ft.com/rss/global-economy" htmlUrl="http://www.ft.com/global-economy"/>
+        </outline>
+        <outline text="MARKET RESEARCH" title="MARKET RESEARCH">
+            <outline type="rss" text="Euromonitor Podcasts" title="Euromonitor Podcasts" xmlUrl="http://euromonitor.libsyn.com/rss" htmlUrl="http://www.euromonitor.com/"/>
+        </outline>
+    </body>
+</opml>

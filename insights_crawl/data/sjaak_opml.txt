@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Sjaak subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Marketing" title="Marketing">
+            <outline type="rss" text="Herald Sun | News | Breaking News" title="Herald Sun | News | Breaking News" xmlUrl="http://feeds.news.com.au/heraldsun/rss/heraldsun_news_breakingnews_2800.xml" htmlUrl="http://www.heraldsun.com.au/"/>
+            <outline type="rss" text="HAPPI - Breaking News" title="HAPPI - Breaking News" xmlUrl="http://feeds.feedburner.com/HappiBreakingNews" htmlUrl="http://www.happi.com"/>
+            <outline type="rss" text="CosmeticsDesign USA RSS" title="CosmeticsDesign USA RSS" xmlUrl="http://www.cosmeticsdesign.com/feed/view/213222" htmlUrl="http://www.cosmeticsdesign.com"/>
+        </outline>
+        <outline text="Corporations" title="Corporations">
+            <outline type="rss" text="iff - Google News" title="iff - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=iff&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=iff"/>
+            <outline type="rss" text="unilever - Google News" title="unilever - Google News" xmlUrl="http://news.google.co.uk/news?hl=en&amp;ned=uk&amp;q=unilever&amp;ie=UTF-8&amp;output=atom" htmlUrl="http://news.google.co.uk/news?hl=en&amp;ned=uk&amp;q=unilever"/>
+        </outline>
+        <outline text="Python" title="Python">
+            <outline type="rss" text="The Django weblog" title="The Django weblog" xmlUrl="http://www.djangoproject.com/rss/weblog/" htmlUrl="https://www.djangoproject.com/weblog/"/>
+            <outline type="rss" text="Python" title="Python" xmlUrl="http://www.reddit.com/r/Python/.rss" htmlUrl="https://www.reddit.com/r/Python/"/>
+            <outline type="rss" text="Planet Python" title="Planet Python" xmlUrl="http://planet.python.org/rss10.xml" htmlUrl="http://planetpython.org/"/>
+        </outline>
+    </body>
+</opml>
