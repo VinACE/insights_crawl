@@ -430,36 +430,40 @@ def crawl_feedly(from_date, rss_field):
         feed_id = feed['id']
         feed_title = feed['title'].encode("ascii", 'replace')
         feed_category = feed['categories'][0]['label']
-        print("Scrape: scraping feed ", feed_title)
+        print("crawl_feedly: scraping feed category/title", feed_category, feed_title)
         if rss_field == '' or feed_category == rss_field:
             url = "http://cloud.feedly.com//v3/streams/contents"
             params_streams['streamId'] = feed_id
             r = requests.get(url, headers=headers, params=params_streams)
             stream = r.json()
-            for entry in stream['items']:
-                feedlymap = models.FeedlyMap()
-                feedlymap.post_id = entry['id']
-                feedlymap.published_date = datetime.fromtimestamp(entry['published']/1000)
-                feedlymap.category = feed_category
-                feedlymap.feed = feed_title
-                if 'topics' in feed:
-                    feedlymap.feed_topics = feed['topics']
-                if 'keywords' in entry:
-                    feedlymap.body_topics = entry['keywords']
-                feedlymap.title = entry['title']
-                if 'canonicalUrl' in entry:
-                    feedlymap.url = entry['canonicalUrl']
-                else:
-                    n = entry['originId'].find('http')
-                    feedlymap.url = entry['originId'][n:]
-                feedlymap.post_id = feedlymap.url
-                if 'summary' in entry:
-                    bs = BeautifulSoup(entry['summary']['content'],  "lxml") # in case of RSS feed
-                if 'content' in entry:
-                    bs = BeautifulSoup(entry['content']['content'], "lxml") # in case of Google News feed
-                feedlymap.body = bs.get_text().encode("ascii", 'replace')
-                data = elastic.convert_for_bulk(feedlymap, 'update')
-                bulk_data.append(data)
+            if 'items' in stream:
+                for entry in stream['items']:
+                    feedlymap = models.FeedlyMap()
+                    feedlymap.post_id = entry['id']
+                    try:
+                        feedlymap.published_date = datetime.fromtimestamp(entry['published']/1000)
+                    except:
+                        feedlymap.published_date = datetime(2010, 1, 1, 00, 00, 00)
+                    feedlymap.category = feed_category
+                    feedlymap.feed = feed_title
+                    if 'topics' in feed:
+                        feedlymap.feed_topics = feed['topics']
+                    if 'keywords' in entry:
+                        feedlymap.body_topics = entry['keywords']
+                    feedlymap.title = entry['title']
+                    if 'canonicalUrl' in entry:
+                        feedlymap.url = entry['canonicalUrl']
+                    else:
+                        n = entry['originId'].find('http')
+                        feedlymap.url = entry['originId'][n:]
+                    feedlymap.post_id = feedlymap.url
+                    if 'summary' in entry:
+                        bs = BeautifulSoup(entry['summary']['content'],  "lxml") # in case of RSS feed
+                    if 'content' in entry:
+                        bs = BeautifulSoup(entry['content']['content'], "lxml") # in case of Google News feed
+                    feedlymap.body = bs.get_text().encode("ascii", 'replace')
+                    data = elastic.convert_for_bulk(feedlymap, 'update')
+                    bulk_data.append(data)
 
     bulk(models.client, actions=bulk_data, stats_only=True)
     return True
